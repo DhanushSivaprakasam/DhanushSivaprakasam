@@ -15,6 +15,23 @@
 * 🐙 GitHub: **[Dhanush S](https://github.com/DhanushSivaprakasam)**
 * 📧 Email: **dhanushsivaprakasam@gmail.com**
 
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/DhanushSivaprakasam">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
 ### 🛠️ Technologies
 
 <p>
