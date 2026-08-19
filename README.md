@@ -14,7 +14,6 @@
 * 💼 LinkedIn: **[My LinkedIn Profile](https://www.linkedin.com/feed/)**
 * 🐙 GitHub: **[Dhanush S](https://github.com/DhanushSivaprakasam)**
 * 📧 Email: **dhanushsivaprakasam@gmail.com**
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -22,7 +21,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="[https://github.com/DhanushSivaprakasam](https://github.com/DhanushSivaprakasam)">
+  <a href="https://github.com/DhanushSivaprakasam">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
