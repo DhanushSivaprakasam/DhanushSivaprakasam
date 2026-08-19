@@ -1,5 +1,11 @@
-## Hi there 👋
--🌱 I’m currently learning ...
+
+👋 Hi, I'm Dhanush S
+
+💻 Software Developer Intern @ Finytive Private Limited
+🐍 Python | Django | React | SQL | AI/ML
+🚀 Building real-world applications & continuously learning
+📚 BCA Data Science
+
 <!--
 **DhanushSivaprakasam/DhanushSivaprakasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
