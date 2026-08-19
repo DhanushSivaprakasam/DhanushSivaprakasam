@@ -12,7 +12,7 @@
 ### 🔗 Connect With Me
 
 * 💼 LinkedIn: **[My LinkedIn Profile](https://www.linkedin.com/feed/)**
-* 🐙 GitHub: **[Dhanush S](YOUR_GITHUB_URL)**
+* 🐙 GitHub: **[Dhanush S](https://github.com/DhanushSivaprakasam)**
 * 📧 Email: **YOUR_EMAIL**
 
 ### 🛠️ Technologies
