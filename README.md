@@ -13,7 +13,7 @@
 
 * 💼 LinkedIn: **[My LinkedIn Profile](https://www.linkedin.com/feed/)**
 * 🐙 GitHub: **[Dhanush S](https://github.com/DhanushSivaprakasam)**
-* 📧 Email: **YOUR_EMAIL**
+* 📧 Email: **dhanushsivaprakasam@gmail.com**
 
 ### 🛠️ Technologies
 
