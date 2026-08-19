@@ -9,11 +9,6 @@
 * 🚀 Building real-world applications
 * 📚 BCA Data Science
 
-### 🔗 Connect With Me
-
-* 💼 LinkedIn: **[My LinkedIn Profile](https://www.linkedin.com/feed/)**
-* 🐙 GitHub: **[Dhanush S](https://github.com/DhanushSivaprakasam)**
-* 📧 Email: **dhanushsivaprakasam@gmail.com**
 ## 🤝 Connect With Me
 
 <p align="center">
