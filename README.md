@@ -18,7 +18,7 @@
 ### 🛠️ Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,react,js,html,css,postgresql,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,react,js,html,css,postgresql,mysql,git,github" />
 </p>
 
 ### 🚀 About Me
