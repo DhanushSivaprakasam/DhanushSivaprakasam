@@ -21,12 +21,6 @@
   <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,postgresql,mysql,git,github" />
 </p>
 
-### 📊 GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
 ### 🚀 About Me
 
 > "Learning, building, and improving every day."
