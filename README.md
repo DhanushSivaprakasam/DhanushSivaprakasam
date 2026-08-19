@@ -11,7 +11,7 @@
 
 ### 🔗 Connect With Me
 
-* 💼 LinkedIn: **[Your LinkedIn Profile](YOUR_LINKEDIN_URL)**
+* 💼 LinkedIn: **[My LinkedIn Profile](https://www.linkedin.com/feed/)**
 * 🐙 GitHub: **[Dhanush S](YOUR_GITHUB_URL)**
 * 📧 Email: **YOUR_EMAIL**
 
